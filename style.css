@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'lums-icon';
-  src:  url('fonts/lums-icon.eot?mkq78k');
-  src:  url('fonts/lums-icon.eot?mkq78k#iefix') format('embedded-opentype'),
-    url('fonts/lums-icon.ttf?mkq78k') format('truetype'),
-    url('fonts/lums-icon.woff?mkq78k') format('woff'),
-    url('fonts/lums-icon.svg?mkq78k#lums-icon') format('svg');
+  src:  url('lums-icon.eot?mkq78k');
+  src:  url('flums-icon.eot?mkq78k#iefix') format('embedded-opentype'),
+    url('lums-icon.ttf?mkq78k') format('truetype'),
+    url('lums-icon.woff?mkq78k') format('woff'),
+    url('lums-icon.svg?mkq78k#lums-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
